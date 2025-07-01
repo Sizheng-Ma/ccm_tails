@@ -2,9 +2,9 @@
 
 This repo provides simulations of late-time tails in binary black hole mergers, generated using a numerical-relativity method called **Cauchy-characteristic matching (CCM)**.
 Only the $(\ell=2,m=0)$ mode of $\Psi_4$ is included; other modes are available upon request.
-Details can be found in [Ma, et al. (2025)](https://arxiv.org/abs/2412.06906) and [Ma, et al. (2024)](https://doi.org/10.1103/PhysRevD.109.124027).
+Details can be found in [Ma, et al. (2025)](https://doi.org/10.1103/jd26-8q5w) and [Ma, et al. (2024)](https://doi.org/10.1103/PhysRevD.109.124027).
 
-## Figures in [Ma, et al. (2025)](https://arxiv.org/abs/2412.06906)
+## Figures in [Ma, et al. (2025)](https://doi.org/10.1103/jd26-8q5w)
 
 [Figure 1](Figures/Figure1/plot_psi4.ipynb): Head-on collision of two equal-mass nonspinning black holes.
 
